@@ -1,6 +1,14 @@
 # C-Programming Project | Draft
 
-Task: To push the plan for the project in the format `<name>.txt`.
+
+##Task:
+
+1. Clone the shared repo.
+2. Create a file with your name (eg: `niyoj.txt`)
+3. Commit the changes.
+4. Add some text and commit.
+5. Push your local repo to GitHub.
+6. Agarin repeat from 4, until you are confident
 
 
 TODO: Add .gitignore file
