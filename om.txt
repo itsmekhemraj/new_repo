@@ -1,0 +1,58 @@
+HOSPITAL MANAGEMENT SYSTEM
+
+
+Users should enter an username and password to gain access.
+Each users previlages should be correctly described.
+
+Type of Users-------permissions(previlages)
+Visitor-------------View doctors information, departments, schedule .etc.
+Admin(IT)-----------Manage everything except sensitive information like                          patient informations.etc
+(Receptionist)------Add record of patient
+		----Append informations
+
+		    
+(Multiple users will have such facilties   Delete record of patient
+		                           Modify record of patient)
+
+Nurses	
+Doctors		----Patient History, Remarks given by others
+Pharmacist     - ---Stock Management (viewed by others)
+Laboratories Personnel
+Blood Bank Department
+Varous Department inside hospital
+Non-Medical Staffs --- Hospital Report, Flow of patient (without giving 		       sensitive information, bed availability)
+
+
+
+
+
+
+
+
+
+Features:
+Login System
+Ticket Management System (OPD)
+	--- Can choose doctor by department
+	--- can chhoose department by symptoms matching
+
+Information should be dispatched to particular authority(redirection)
+	--- notification system
+
+Send messages internally to users
+Database Management
+File Management
+File Handling
+Table data
+Searching
+Log management
+Password Management
+
+Frontend
+logics
+
+1. Branch  ------ Main
+		  Develop
+		  Feature  (temporary type)
+
+Feature >>>>--Develop >>>>--------Pull Request to main ---Checkout by third 						person  -- Merge by them.
