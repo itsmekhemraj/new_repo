@@ -1,5 +1,5 @@
 HOSPITAL MANAGEMENT SYSTEM
-
+---------------------------
 
 Users should enter an username and password to gain access.
 Each users previlages should be correctly described.
