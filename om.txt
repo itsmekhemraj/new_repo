@@ -55,4 +55,4 @@ logics
 		  Develop
 		  Feature  (temporary type)
 
-Feature >>>>--Develop >>>>--------Pull Request to main ---Checkout by third 						person  -- Merge by them.
+Feature >>>>--Develop >>>>--------Pull Request to main ---Checkout by third person(Debugger)  -- Merge by them.

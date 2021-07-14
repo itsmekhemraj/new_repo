@@ -20,7 +20,6 @@
 * To push in the new branch you can use command, `git push <remote-name> <branch-name>`
 * Note that, the default name for remote is origin.
 
-TODO: Add .gitignore file
 
 # LINKS:
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)<br>
