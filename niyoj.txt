@@ -1,2 +1,4 @@
-Hello, This is my first line.
-This is my second line.
+Hello, everyone.
+This is our second day of pracctising Git. 
+Yesterday we learned how to clone, push and pull. 
+Today we are going to learn how to push to a specific branch only.
