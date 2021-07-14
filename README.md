@@ -12,13 +12,13 @@
 
 ## Task (DAY 2):
 1. Add some text in your files that you have created yesterday.
-2. Commit the changes but today the committer name must be <your-name> (<your-roll-number>) Eg: RamBahadur (THA077BCT000)
-3. While changing the config try to use git config --local. And note there are no spaces in the name.
+2. Commit the changes but today the committer name must be \<your-name> \(\<your-roll-number>) Eg: `RamBahadur (THA077BCT000)`
+3. While changing the config try to use `git config --local`. And note there are no spaces in the name.
 4. A branch have been created named develop. Now try to push changes not in master but in develop.
 
 ### Hints for DAY 2:
-* To push in the new branch you can use command, git push <remote-name> <branch-name>
-* Note that, the default name for remote is origin
+* To push in the new branch you can use command, `git push <remote-name> <branch-name>`
+* Note that, the default name for remote is origin.
 
 TODO: Add .gitignore file
 
